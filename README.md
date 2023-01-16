@@ -1,1 +1,3 @@
 # kubernetesCommands
+
+kubectl get nodes
